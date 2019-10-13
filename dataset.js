@@ -1,5 +1,4 @@
-{
-  "data": [
+[
     {
       "cras_año": 11,
       "cras_animal_numero": 90,
@@ -553,4 +552,3 @@
       "cras_animal_tipo": "Ave de cetrería"
     }
   ]
-}
