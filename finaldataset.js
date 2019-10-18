@@ -1,4 +1,5 @@
-[
+{
+    [
     {
       "cras_anyo": 11,
       "cras_animal_numero": 90,
@@ -551,6 +552,7 @@
       "cras_animal_grupo_taxonomico": "Aves rapaces",
       "cras_animal_tipo": "Ave de cetrería"
     }
+        ],
   "histogramas":{
       "Mamíferos":[
          {
@@ -931,5 +933,5 @@
          }
       ]
    }
-]
+}
 
