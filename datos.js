@@ -14,7 +14,7 @@
     },
     {
       "cras_anyo": 2011,
-      "cras_animal_numero": 400,
+      "cras_animal_numero": 889,
       "cras_animal_grupo_taxonomico": "Otras aves",
       "cras_animal_tipo": "Autoctono"
     },
