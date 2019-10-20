@@ -32,7 +32,7 @@
     },
     {
       "cras_anyo": 2011,
-      "cras_animal_numero": 6,
+      "cras_animal_numero": 60,
       "cras_animal_grupo_taxonomico": "Anfibios",
       "cras_animal_tipo": "Autoctono"
     },
@@ -68,7 +68,7 @@
     },
     {
       "cras_anyo": 2011,
-      "cras_animal_numero": 2,
+      "cras_animal_numero": 20,
       "cras_animal_grupo_taxonomico": "Anfibios",
       "cras_animal_tipo": "Aloctono"
     },
