@@ -38,7 +38,7 @@
     },
     {
       "cras_anyo": 2011,
-      "cras_animal_numero": 1,
+      "cras_animal_numero": 10,
       "cras_animal_grupo_taxonomico": "Invertebrados",
       "cras_animal_tipo": "Autoctono"
     },
@@ -104,7 +104,7 @@
     },
     {
       "cras_anyo": 2012,
-      "cras_animal_numero": 1,
+      "cras_animal_numero": 10,
       "cras_animal_grupo_taxonomico": "Anfibios",
       "cras_animal_tipo": "Autoctono"
     },
