@@ -530,13 +530,13 @@
     },
     {
       "cras_anyo": 2017,
-      "cras_animal_numero": 3,
+      "cras_animal_numero": 30,
       "cras_animal_grupo_taxonomico": "Peces",
       "cras_animal_tipo": "Aloctono"
     },
     {
       "cras_anyo": 2017,
-      "cras_animal_numero": 1,
+      "cras_animal_numero": 10,
       "cras_animal_grupo_taxonomico": "Anfibios",
       "cras_animal_tipo": "Aloctono"
     },
