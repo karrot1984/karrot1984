@@ -356,7 +356,7 @@
     },
     {
       "cras_anyo": 2015,
-      "cras_animal_numero": 1029,
+      "cras_animal_numero": 500,
       "cras_animal_grupo_taxonomico": "Otras aves",
       "cras_animal_tipo": "Aloctono"
     },
@@ -410,7 +410,7 @@
     },
     {
       "cras_anyo": 2016,
-      "cras_animal_numero": 1075,
+      "cras_animal_numero": 400,
       "cras_animal_grupo_taxonomico": "Otras aves",
       "cras_animal_tipo": "Autoctono"
     },
@@ -488,7 +488,7 @@
     },
     {
       "cras_anyo": 2017,
-      "cras_animal_numero": 1333,
+      "cras_animal_numero": 300,
       "cras_animal_grupo_taxonomico": "Otras aves",
       "cras_animal_tipo": "Autoctono"
     },
