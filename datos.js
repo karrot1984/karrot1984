@@ -26,19 +26,19 @@
     },
     {
       "cras_anyo": 2011,
-      "cras_animal_numero": 200,
+      "cras_animal_numero": 0,
       "cras_animal_grupo_taxonomico": "Peces",
       "cras_animal_tipo": "Autoctono"
     },
     {
       "cras_anyo": 2011,
-      "cras_animal_numero": 60,
+      "cras_animal_numero": 6,
       "cras_animal_grupo_taxonomico": "Anfibios",
       "cras_animal_tipo": "Autoctono"
     },
     {
       "cras_anyo": 2011,
-      "cras_animal_numero": 80,
+      "cras_animal_numero": 1,
       "cras_animal_grupo_taxonomico": "Invertebrados",
       "cras_animal_tipo": "Autoctono"
     },
@@ -50,7 +50,7 @@
     },
     {
       "cras_anyo": 2011,
-      "cras_animal_numero": 88,
+      "cras_animal_numero": 11,
       "cras_animal_grupo_taxonomico": "Aves rapaces",
       "cras_animal_tipo": "Aloctono"
     },
@@ -68,7 +68,7 @@
     },
     {
       "cras_anyo": 2011,
-      "cras_animal_numero": 20,
+      "cras_animal_numero": 2,
       "cras_animal_grupo_taxonomico": "Anfibios",
       "cras_animal_tipo": "Aloctono"
     },
@@ -104,7 +104,7 @@
     },
     {
       "cras_anyo": 2012,
-      "cras_animal_numero": 98,
+      "cras_animal_numero": 1,
       "cras_animal_grupo_taxonomico": "Anfibios",
       "cras_animal_tipo": "Autoctono"
     },
@@ -128,7 +128,7 @@
     },
     {
       "cras_anyo": 2012,
-      "cras_animal_numero": 78,
+      "cras_animal_numero": 1,
       "cras_animal_grupo_taxonomico": "Peces",
       "cras_animal_tipo": "Aloctono"
     },
@@ -170,25 +170,25 @@
     },
     {
       "cras_anyo": 2013,
-      "cras_animal_numero": 40,
+      "cras_animal_numero": 4,
       "cras_animal_grupo_taxonomico": "Peces",
       "cras_animal_tipo": "Autoctono"
     },
     {
       "cras_anyo": 2013,
-      "cras_animal_numero": 30,
+      "cras_animal_numero": 3,
       "cras_animal_grupo_taxonomico": "Anfibios",
       "cras_animal_tipo": "Autoctono"
     },
     {
       "cras_anyo": 2013,
-      "cras_animal_numero": 35,
+      "cras_animal_numero": 1,
       "cras_animal_grupo_taxonomico": "Insectos",
       "cras_animal_tipo": "Autoctono"
     },
     {
       "cras_anyo": 2013,
-      "cras_animal_numero": 20,
+      "cras_animal_numero": 2,
       "cras_animal_grupo_taxonomico": "Otros invertebrados",
       "cras_animal_tipo": "Autoctono"
     },
@@ -212,7 +212,7 @@
     },
     {
       "cras_anyo": 2013,
-      "cras_animal_numero": 40,
+      "cras_animal_numero": 4,
       "cras_animal_grupo_taxonomico": "Anfibios",
       "cras_animal_tipo": "Aloctono"
     },
@@ -254,19 +254,19 @@
     },
     {
       "cras_anyo": 2014,
-      "cras_animal_numero": 70,
+      "cras_animal_numero": 7,
       "cras_animal_grupo_taxonomico": "Peces",
       "cras_animal_tipo": "Autoctono"
     },
     {
       "cras_anyo": 2014,
-      "cras_animal_numero": 50,
+      "cras_animal_numero": 5,
       "cras_animal_grupo_taxonomico": "Anfibios",
       "cras_animal_tipo": "Autoctono"
     },
     {
       "cras_anyo": 2014,
-      "cras_animal_numero": 56,
+      "cras_animal_numero": 1,
       "cras_animal_grupo_taxonomico": "Invertebrados",
       "cras_animal_tipo": "Autoctono"
     },
@@ -290,7 +290,7 @@
     },
     {
       "cras_anyo": 2014,
-      "cras_animal_numero": 20,
+      "cras_animal_numero": 2,
       "cras_animal_grupo_taxonomico": "Anfibios",
       "cras_animal_tipo": "Aloctono"
     },
@@ -344,7 +344,7 @@
     },
     {
       "cras_anyo": 2015,
-      "cras_animal_numero": 30,
+      "cras_animal_numero": 3,
       "cras_animal_grupo_taxonomico": "Invertebrados",
       "cras_animal_tipo": "Autoctono"
     },
@@ -368,19 +368,19 @@
     },
     {
       "cras_anyo": 2015,
-      "cras_animal_numero": 30,
+      "cras_animal_numero": 3,
       "cras_animal_grupo_taxonomico": "Peces",
       "cras_animal_tipo": "Aloctono"
     },
     {
       "cras_anyo": 2015,
-      "cras_animal_numero": 90,
+      "cras_animal_numero": 1,
       "cras_animal_grupo_taxonomico": "Anfibios",
       "cras_animal_tipo": "Aloctono"
     },
     {
       "cras_anyo": 2015,
-      "cras_animal_numero": 80,
+      "cras_animal_numero": 8,
       "cras_animal_grupo_taxonomico": "Invertebrados",
       "cras_animal_tipo": "Aloctono"
     },
@@ -392,7 +392,7 @@
     },
     {
       "cras_anyo": 2015,
-      "cras_animal_numero": 60,
+      "cras_animal_numero": 6,
       "cras_animal_grupo_taxonomico": "Otras aves",
       "cras_animal_tipo": "Ave de cetreria"
     },
@@ -422,13 +422,13 @@
     },
     {
       "cras_anyo": 2016,
-      "cras_animal_numero": 50,
+      "cras_animal_numero": 5,
       "cras_animal_grupo_taxonomico": "Peces",
       "cras_animal_tipo": "Autoctono"
     },
     {
       "cras_anyo": 2016,
-      "cras_animal_numero": 70,
+      "cras_animal_numero": 7,
       "cras_animal_grupo_taxonomico": "Invertebrados",
       "cras_animal_tipo": "Autoctono"
     },
@@ -452,13 +452,13 @@
     },
     {
       "cras_anyo": 2016,
-      "cras_animal_numero": 30,
+      "cras_animal_numero": 3,
       "cras_animal_grupo_taxonomico": "Peces",
       "cras_animal_tipo": "Aloctono"
     },
     {
       "cras_anyo": 2016,
-      "cras_animal_numero": 89,
+      "cras_animal_numero": 1,
       "cras_animal_grupo_taxonomico": "Anfibios",
       "cras_animal_tipo": "Aloctono"
     },
@@ -500,13 +500,13 @@
     },
     {
       "cras_anyo": 2017,
-      "cras_animal_numero": 87,
+      "cras_animal_numero": 1,
       "cras_animal_grupo_taxonomico": "Anfibios",
       "cras_animal_tipo": "Autoctono"
     },
     {
       "cras_anyo": 2017,
-      "cras_animal_numero": 67,
+      "cras_animal_numero": 1,
       "cras_animal_grupo_taxonomico": "Invertebrados",
       "cras_animal_tipo": "Autoctono"
     },
@@ -530,13 +530,13 @@
     },
     {
       "cras_anyo": 2017,
-      "cras_animal_numero": 30,
+      "cras_animal_numero": 3,
       "cras_animal_grupo_taxonomico": "Peces",
       "cras_animal_tipo": "Aloctono"
     },
     {
       "cras_anyo": 2017,
-      "cras_animal_numero": 78,
+      "cras_animal_numero": 1,
       "cras_animal_grupo_taxonomico": "Anfibios",
       "cras_animal_tipo": "Aloctono"
     },
