@@ -1,6 +1,6 @@
 {
-  "animales":[
-   {
+ "animales":[
+    {
       "cras_anyo": 2011,
       "cras_animal_numero": 90,
       "cras_animal_grupo_taxonomico": "Mamiferos",
@@ -26,7 +26,7 @@
     },
     {
       "cras_anyo": 2011,
-      "cras_animal_numero": 0,
+      "cras_animal_numero": 10,
       "cras_animal_grupo_taxonomico": "Peces",
       "cras_animal_tipo": "Autoctono"
     },
@@ -38,13 +38,13 @@
     },
     {
       "cras_anyo": 2011,
-      "cras_animal_numero": 1,
+      "cras_animal_numero": 10,
       "cras_animal_grupo_taxonomico": "Invertebrados",
       "cras_animal_tipo": "Autoctono"
     },
     {
       "cras_anyo": 2011,
-      "cras_animal_numero": 70,
+      "cras_animal_numero": 1,
       "cras_animal_grupo_taxonomico": "Mamiferos",
       "cras_animal_tipo": "Aloctono"
     },
@@ -289,7 +289,7 @@
       "cras_animal_tipo": "Aloctono"
     },
     {
-      "cras_anyo": 14,
+      "cras_anyo": 2014,
       "cras_animal_numero": 2,
       "cras_animal_grupo_taxonomico": "Anfibios",
       "cras_animal_tipo": "Aloctono"
